@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently in education for application development - coding<br>👯 I’m looking for small communites for coding newbies<br>🌱 I’m currently learning PHP, mySQL & Data Security<br>💬 Ask me about anything<br>⚡ Fun fact about me: I learned IT (Hardware focused) in the past & always said that I won't ever start learning how to code
+🔭 I’m currently in education for application development - coding<br>🌱 I’m currently learning PHP, mySQL & Data Security<br>💬 Ask me about anything<br>
 
 
 # 💻 Tech Stack:
